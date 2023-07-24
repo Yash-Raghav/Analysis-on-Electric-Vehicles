@@ -10,13 +10,12 @@ Insights generated from the data -
 
 - Since 2020 the percentage share of electric vehicles has more than tripled.
 
-![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc = 200x200)
-<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc" width="500" height="300">
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc" width="500" height="350">
 
   
 - Tesla leads the market with the most market share of electric vehicles.
 
-![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/7f9dee1b-b011-4ed9-8f77-3ed69f5f4d29)
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/7f9dee1b-b011-4ed9-8f77-3ed69f5f4d29" width="500" height="350">
 
 
 - BMW holds the record with most number of different models with the capability to run on electricity. 11 different models.
