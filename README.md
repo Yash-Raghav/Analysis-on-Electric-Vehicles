@@ -19,6 +19,9 @@ Insights generated from the data -
 
 
 - BMW holds the record with most number of different models with the capability to run on electricity. 11 different models.
+
+- <img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/3037cbbf-6d94-48fc-a009-b4d031e35e83" width="600" height="350">
+
   
 - Two types of electric vehicles are available - Battery Eletric Vehicles (BEV) and Plug-in Hybrid Electric Vehicle (PHEV). 76% of electric vehicles sold today are BEV, while 24% are PHEV.
 
@@ -32,5 +35,10 @@ Insights generated from the data -
 
 
 - Tesla takes the cake with the maximum range of 377 miles running on eletricity.
-  
+
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/2521f996-1067-4455-bf07-934412615893" width="600" height="350">
+
 - Based on the data of USA, most eletric vehicles are sold and used in the state of Washington.
+
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4ae43eca-dca3-42cf-a084-17406a1f8a57" width="600" height="350">
+  
