@@ -10,7 +10,7 @@ Insights generated from the data -
 
 - Since 2020 the percentage share of electric vehicles has more than tripled.
 
-![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc | width=400)
+![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc=400x400)
 
   
 - Tesla leads the market with the most market share of electric vehicles.
