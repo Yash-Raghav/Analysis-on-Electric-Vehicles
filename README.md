@@ -10,7 +10,7 @@ Insights generated from the data -
 
 - Since 2020 the percentage share of electric vehicles has more than tripled.
 
-<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc" width="500" height="350">
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc" width="600" height="350">
 
   
 - Tesla leads the market with the most market share of electric vehicles.
@@ -22,12 +22,13 @@ Insights generated from the data -
   
 - Two types of electric vehicles are available - Battery Eletric Vehicles (BEV) and Plug-in Hybrid Electric Vehicle (PHEV). 76% of electric vehicles sold today are BEV, while 24% are PHEV.
 
-![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/cd267b7d-e6c2-48cc-8419-32091dfc4a2e)
+
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/cd267b7d-e6c2-48cc-8419-32091dfc4a2e" width="600" height="350">
 
 
 - 52% of the vehicles sold are Clean Alternative Fuel Vehicle Eligible. While a lot of research is still going on in this field, 39% of vehicles sold do not have any data about whether they can be considered as  Clean Alternative Fuel Vehicle Eligible. 13% of the vehicles are not eligible as they have a very short range running on battery.
 
-![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/34cb6dc3-3f55-4a92-9875-920169c53c5a)
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/34cb6dc3-3f55-4a92-9875-920169c53c5a" width="600" height="350">
 
 
 - Tesla takes the cake with the maximum range of 377 miles running on eletricity.
