@@ -27,5 +27,5 @@ The dataset contains information about 34 different electric vehicle manufacture
 
 
 - Tesla takes the cake with the maximum range of 377 miles running on eletricity.
-- 
+  
 - Based on the data of USA, most eletric vehicles are sold and used in the state of Washington.
