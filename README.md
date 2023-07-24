@@ -15,7 +15,7 @@ Insights generated from the data -
   
 - Tesla leads the market with the most market share of electric vehicles.
 
-<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/7f9dee1b-b011-4ed9-8f77-3ed69f5f4d29" width="500" height="350">
+<img src="https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/7f9dee1b-b011-4ed9-8f77-3ed69f5f4d29" width="600" height="350">
 
 
 - BMW holds the record with most number of different models with the capability to run on electricity. 11 different models.
