@@ -4,6 +4,8 @@ With the advent of modern technology and the crisis of climate change we are fac
 
 The dataset contains information about 34 different electric vehicle manufacturers since 1997. 
 
+Insights generated from the data - 
+
 - Since 2020 the percentage share of electric vehicles has more than tripled.
 
 ![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/4de4e104-d16e-4326-a3f0-8f4ced9301fc)
@@ -15,7 +17,7 @@ The dataset contains information about 34 different electric vehicle manufacture
 
 
 - BMW holds the record with most number of different models with the capability to run on electricity. 11 different models.
-- 
+  
 - Two types of electric vehicles are available - Battery Eletric Vehicles (BEV) and Plug-in Hybrid Electric Vehicle (PHEV). 76% of electric vehicles sold today are BEV, while 24% are PHEV.
 
 ![image](https://github.com/Yash-Raghav/Analysis-on-Electric-Vehicles/assets/82383225/cd267b7d-e6c2-48cc-8419-32091dfc4a2e)
